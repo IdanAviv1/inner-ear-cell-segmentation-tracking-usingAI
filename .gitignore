@@ -1,0 +1,10 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# סביבות / מפתחות פרטיים (אם קיימים)
+.venv/
+venv/
+.env

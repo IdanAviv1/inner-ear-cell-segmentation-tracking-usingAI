@@ -1,0 +1,2 @@
+,num_frames,mota,motp,idf1,idp,idr,num_switches,recall,precision
+sequence,121,0.829,0.0,0.248,0.248,0.248,30938,1.0,1.0
