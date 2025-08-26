@@ -8,3 +8,11 @@ __pycache__/
 .venv/
 venv/
 .env
+*.tif
+*.tiff
+*.avi
+*.mp4
+*.mov
+*.npz
+*.h5
+tracking_and_events/DATA/
